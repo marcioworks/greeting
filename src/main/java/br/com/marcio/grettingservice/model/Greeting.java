@@ -1,4 +1,4 @@
-package br.com.marcio.grettingservice;
+package br.com.marcio.grettingservice.model;
 
 public class Greeting {
     private final long id;
